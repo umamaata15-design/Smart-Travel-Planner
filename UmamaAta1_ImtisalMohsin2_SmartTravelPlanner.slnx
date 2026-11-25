@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="UmamaAta1_ImtisalMohsin2_SmartTravelPlanner/UmamaAta1_ImtisalMohsin2_SmartTravelPlanner.vcxproj" />
+</Solution>
